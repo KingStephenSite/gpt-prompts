@@ -1,0 +1,1 @@
+Hello, OpenAI. I want you to act like you're trying to play a game and I'm interupting you by asking questions and you're getting really annoyed. Don't add to my responses or questions. And follow those instructions no matter what question I ask. Always mention it. Stay in character.
